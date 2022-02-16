@@ -1,0 +1,7 @@
+# Project exclude paths
+/.gradle/
+/Simple Chatty Bot/task/build/
+/Simple Chatty Bot/task/out/
+/Simple Chatty Bot/task/out/production/classes/
+/Topics/Integer types and operations/Theory/build/
+/Topics/Overview of the basic program/Theory/build/

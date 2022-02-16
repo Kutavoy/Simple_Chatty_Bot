@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-classes-java.main" target="11" />
+      <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-reports-tests.main" target="11" />
+      <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-test-results.main" target="11" />
+      <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-tmp.main" target="11" />
+      <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Comments-Forms_of_comments.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Comments-Incorrect_comments.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Comments-Statements.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Comments-The_forgotten_comments.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Comments-Theory.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Comments-Uncomment_a_line.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Conditional_statement-A_correct_example.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Conditional_statement-An_output_of_the_code.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Conditional_statement-Check_a_number_is_positive.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Conditional_statement-Determine_the_output.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Conditional_statement-Healthy_sleep.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Conditional_statement-Interval.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Conditional_statement-Statements.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Conditional_statement-The_army_of_units.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Conditional_statement-The_condition_to_travel_around_the_world.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Conditional_statement-Theory.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Increment_and_decrement-Decrement_all.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Increment_and_decrement-Increasing_a_variable_by_one.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Increment_and_decrement-Theory.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Increment_and_decrement-What_is_the_result.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Increment_and_decrement-What_is_the_result__1_.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Integer_types_and_operations-Arithmetic_expression.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Integer_types_and_operations-Calculate_the_digit.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Integer_types_and_operations-How_many_nuts_each_squirrel_will_get.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Integer_types_and_operations-Snail.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Integer_types_and_operations-Squirrels_and_nuts.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Integer_types_and_operations-Theory.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Introduction_to_Java-Hello.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Introduction_to_Java-Theory.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Overview_of_the_basic_program-Cats_are_robots.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Overview_of_the_basic_program-Hello,_Java.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Overview_of_the_basic_program-Theory.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Printing_data-Digits_from_0_to_9_backwards.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Printing_data-First,_second,_third.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Printing_data-Theory.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Scanning_the_input-Guest_list_of_a_hotel.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Scanning_the_input-Print_strings_in_the_reverse_order.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Scanning_the_input-Printing_each_word_in_a_new_line.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Scanning_the_input-Printing_strings_in_the_same_order.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Scanning_the_input-Reading_a_number.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Scanning_the_input-Reading_a_single_word.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Scanning_the_input-Theory.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Scanning_the_input-Understanding_System.in.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Types_and_variables-Animal.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Types_and_variables-Assignments.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Types_and_variables-Invalid_declaration_of_variables.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Types_and_variables-Statements.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Types_and_variables-Statements__1_.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Types_and_variables-Theory.main" target="11" />
+      <module name="Simple_Chatty_Bot.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
